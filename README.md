@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My self Praveen kumar
+## My self Praveen kumar
 ### I'm currently pursuing B.teach in ECE from Shri Mata Vaishno Devi University, Katra , J&K.
 
 
