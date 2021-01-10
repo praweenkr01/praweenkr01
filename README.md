@@ -1,6 +1,9 @@
-### Hi there 👋
-## My self Praveen kumar
-### I'm currently pursuing B.teach in ECE from Shri Mata Vaishno Devi University, Katra , J&K.
+<h2 style="text-align:centre"> Hi there 👋</h2>
+<h2>My self Praveen Kumar , A second year undergraduate at shri mata vasihno devi university , katra   in stream of electronics and communication engineering<h2>
+ <h3> I am a learner , contributor to open sourse and currently also working on my own project<h3>
+
+   
+
 
 
 <!--
