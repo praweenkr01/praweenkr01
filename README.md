@@ -1,6 +1,6 @@
 <h2> Hi there 👋</h2>
 <h2>My self Praveen Kumar , A second year undergraduate at shri mata vasihno devi university , katra   in stream of electronics and communication engineering<h2>
- <h3> I am a learner , contributor to open sourse and currently also working on my own project<h3>
+ <h3> I am a learner , contributor to open sourse<h3>
 
    
 
